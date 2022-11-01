@@ -1,16 +1,14 @@
-### Hi there 👋
+# Seja Bem Vindo , 
 
-<!--
-**guibleone/guibleone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:smile:Programdor Web Full Stack
 
-Here are some ideas to get you started:
+:wave:Estudante do IFSP - Campinas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:point_right:Progamando com: PHP, MySql, HTML, CSS, JS , PHP, Pyhton
+
+:star: Focado, motivado e determinado nas minhas ambições
+
+:milky_way: Sempre em busca do conhecimento e da inovação
+
+:thought_balloon: "Aprenda com o ontem. Viva o hoje. Tenha esperança para o amanhã." -Albert Einstein
+<div><a href="https://github.com/seu-usuário-aqui"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerisadm&layout=compact&langs_count=7&theme=dracula"/></div>
