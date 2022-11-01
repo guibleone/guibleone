@@ -4,7 +4,7 @@
 
 :wave:Estudante do IFSP - Campinas
 
-:point_right:Progamando com: PHP, MySql, HTML, CSS, JS , PHP, Pyhton
+:point_right:Progamando com: PHP, MySql, HTML, CSS, JS e Pyhton
 
 :star: Focado, motivado e determinado nas minhas ambições
 
