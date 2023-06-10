@@ -2,15 +2,13 @@
 
 :smile:Programdor Web Full Stack
 
-:wave:Estudante do IFSP - Campinas
+:point_right:Progamando com: PHP, MySql, HTML, CSS, JS, Pyhton e MongoDb
 
-:point_right:Progamando com: PHP, MySql, HTML, CSS, JS e Pyhton
+🙂: Principal frameworks : React e Node Js
 
 :star: Focado, motivado e determinado nas minhas ambições
 
 :milky_way: Sempre em busca do conhecimento e da inovação
-
-:relieved: Inglês avançado 
 
 :thought_balloon: "Aprenda com o ontem. Viva o hoje. Tenha esperança para o amanhã." -Albert Einstein
 <div><a href="https://github.com/tguibleone"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibleone&layout=compact&langs_count=7&theme=dracula"/></div>
