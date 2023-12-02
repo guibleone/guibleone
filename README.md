@@ -1,6 +1,6 @@
-# Olá! 👋
+# Bem Vindo! 👋
 
-:computer: Olá, sou um entusiasta fullstack comprometido em criar experiências envolventes e funcionais. Minha especialidade está no universo React, onde combino habilidades sólidas para oferecer interfaces modernas e interativas.
+:computer: Olá, sou um entusiasta fullstack comprometido em criar experiências envolventes e funcionais.
 
 :rocket: Minhas habilidades incluem JavaScript, MongoDB , Express e API REST.
 
