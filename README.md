@@ -1,12 +1,10 @@
 # Olá! 👋
 
-:computer: Sou um Desenvolvedor Web Full Stack apaixonado por criar soluções inovadoras.
+:computer: Olá, sou um entusiasta fullstack comprometido em criar experiências envolventes e funcionais. Minha especialidade está no universo React, onde combino habilidades sólidas para oferecer interfaces modernas e interativas.
 
 :rocket: Minhas habilidades incluem JavaScript, MongoDB , Express e API REST.
 
 🛠️ Trabalho principalmente com os frameworks React e Node.js para desenvolvimento eficiente.
-
-:star: Sou determinado, motivado e focado em alcançar minhas ambições.
 
 🌌 Busco constantemente conhecimento e adoro explorar novas possibilidades.
 
