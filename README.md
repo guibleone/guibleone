@@ -1,19 +1,17 @@
-# Bem Vindo 👋
+# Olá! 👋
 
-:smile: Desenvolvedor Web Full Stack
+:computer: Sou um Desenvolvedor Web Full Stack apaixonado por criar soluções inovadoras.
 
-:point_right: Programando com: PHP, MySql, HTML, CSS, JS, Python e MongoDb
+:rocket: Minhas habilidades incluem PHP, MySql, HTML, CSS, JS, Python e MongoDb.
 
-🙂 Principal frameworks: React e Node Js
+🛠️ Trabalho principalmente com os frameworks React e Node.js para desenvolvimento eficiente.
 
-:star: Focado, motivado e determinado nas minhas ambições
+:star: Sou determinado, motivado e focado em alcançar minhas ambições.
 
-:milky_way: Sempre em busca do conhecimento e da inovação
+🌌 Busco constantemente conhecimento e adoro explorar novas possibilidades.
 
-:thought_balloon: "Aprenda com o ontem. Viva o hoje. Tenha esperança para o amanhã." - Albert Einstein
+💭 "Aprenda com o ontem. Viva o hoje. Tenha esperança para o amanhã." - Albert Einstein
 
-<div>
-  <a href="https://github.com/tguibleone">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibleone&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+Conheça meu trabalho no [GitHub](https://github.com/tguibleone).
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=guibleone&layout=compact&langs_count=7&theme=dracula)
