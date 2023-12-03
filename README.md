@@ -2,7 +2,7 @@
 
 :computer: Olá, sou um entusiasta fullstack comprometido em criar experiências envolventes e funcionais.
 
-:rocket: Minhas habilidades incluem JavaScript, MongoDB , Express , API REST, Node.js, JWT e Git. 
+:rocket: Minhas habilidades incluem JavaScript, MongoDB , Express , API REST, JWT e Git. 
 
 🛠️ Trabalho principalmente com os frameworks React e Node.js para desenvolvimento eficiente.
 
