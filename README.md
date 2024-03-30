@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **NestJS, NGINX, Redis, Docker**
 
-- 👨‍💻 All of my projects are available at [https://guilherme-leone.vercel.app/](https://guilherme-leone.vercel.app/)
+- 👨‍💻 Student of Systems Analysis and Development at **UNICAMP**
 
 - 💬 Ask me about **React, Typescript, Node.js, Next.js, Vite, Linux**
 
