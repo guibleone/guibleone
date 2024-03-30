@@ -16,11 +16,11 @@
 
 ###
 
-- 🌱 I’m currently learning **Next.js, Nestjs, NGINX, Redis**
+- 🌱 I’m currently learning **Nestjs, NGINX, Redis, Docker**
 
 - 👨‍💻 All of my projects are available at [https://guilherme-leone.vercel.app/](https://guilherme-leone.vercel.app/)
 
-- 💬 Ask me about **React, Typescript, Node.js**
+- 💬 Ask me about **React, Typescript, Node.js, Next.js, Vite **
 
 - 📫 How to reach me **guilherme1leone@gmail.com**
 
