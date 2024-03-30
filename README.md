@@ -16,7 +16,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Nestjs, NGINX, Redis, Docker**
+- 🌱 I’m currently learning **NestJS, NGINX, Redis, Docker**
 
 - 👨‍💻 All of my projects are available at [https://guilherme-leone.vercel.app/](https://guilherme-leone.vercel.app/)
 
