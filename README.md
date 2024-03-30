@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://guilherme-leone.vercel.app/](https://guilherme-leone.vercel.app/)
 
-- 💬 Ask me about **React, Typescript, Node.js, Next.js, Vite, Linux **
+- 💬 Ask me about **React, Typescript, Node.js, Next.js, Vite, Linux**
 
 - 📫 How to reach me **guilherme1leone@gmail.com**
 
