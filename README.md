@@ -16,8 +16,7 @@
 
 ###
 
-- 🌱 I’m currently learning **NestJS, NGINX, Redis, Docker**
-- 👨‍💻 Student of Systems Analysis and Development at **UNICAMP**
+- 🌱 I’m currently learning **HTMX, NGINX, Redis, Docker**
 - 💬 Ask me about **React, Typescript, Node.js, Next.js, Vite, Linux**
 - 📫 How to reach me **guilherme1leone@gmail.com**
 
